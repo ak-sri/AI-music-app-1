@@ -1,0 +1,20 @@
+.heading{
+    width:100%;
+    font-size:25px; 
+    color:black;
+    box-shadow: 5px 5px 5px red;
+}
+
+.note{
+    font-size:20px; 
+    color:white;
+}
+
+#song{
+    font-size: 20px;
+}
+
+canvas{
+    border:5px solid white; 
+    border-radius: 20px;
+}
